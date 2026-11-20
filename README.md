@@ -5,10 +5,10 @@
 ### **Software Engineer & Cloud Enthusiast**  
 Building at **[Cloud Partners (Pvt) Ltd](https://github.com/Cloud-Partners-Pvt)** · Based in **Malwana, Sri Lanka**
 
-[![Website](https://img.shields.io/badge/Portfolio-sulaiman.shatec.com.lk-2454d7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sulaiman.shatec.com.lk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-msshassan-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msshassan)
 [![Email](https://img.shields.io/badge/Email-sulaiman%40cloudpartners.biz-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sulaiman@cloudpartners.biz)
 [![Organization](https://img.shields.io/badge/Organization-Cloud--Partners--Pvt-1f2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cloud-Partners-Pvt)
+[![Company](https://img.shields.io/badge/Website-cloudpartners.biz-2454d7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cloudpartners.biz)
 
 ---
 
@@ -24,7 +24,7 @@ Building at **[Cloud Partners (Pvt) Ltd](https://github.com/Cloud-Partners-Pvt)*
 - 💼 **Software Engineer** at **[Cloud Partners (Pvt) Ltd](https://github.com/Cloud-Partners-Pvt)**, architecting multi-tenant SaaS platforms, enterprise ERP systems, and cloud infrastructure.
 - ☁️ **Cloud & Systems:** Hands-on experience optimizing and deploying microservices on **Google Cloud Platform (GCP)**, **AWS**, and bare-metal **Linux**.
 - 🛠️ **Enterprise Solutions:** Architecting full-scale ERP and CRM ecosystems, custom **Zoho Catalyst** micro-services, and automated cross-departmental pipelines.
-- 🌐 **Portfolio & Case Studies:** Discover more about my journey and systems at **[sulaiman.shatec.com.lk](https://sulaiman.shatec.com.lk)**.
+- 🎯 **Focus Areas:** Scalable SaaS architecture, API integration engines, and automated cloud workflows.
 
 ---
 
